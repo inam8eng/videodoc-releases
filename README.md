@@ -2,7 +2,7 @@
 
 # VideoDoc — Release Feed
 
-**Download the latest VideoDoc build below. Source code lives in a separate private repo.**
+**VideoDoc is sold on Gumroad. This public repo is only the update feed installed apps check to detect new versions. Source code lives in a separate private repo.**
 
 [![Latest release](https://img.shields.io/github/v/release/inam8eng/videodoc-releases?label=latest&color=6d5dfc)](https://github.com/inam8eng/videodoc-releases/releases/latest)
 
@@ -12,12 +12,12 @@
 
 ## Get VideoDoc
 
-👉 **[Download the latest release](https://github.com/inam8eng/videodoc-releases/releases/latest)**
-
-Grab `VideoDoc_vX.Y.Z_Windows.zip`, unzip, open the VideoDoc folder and run `VideoDoc.exe`.
+👉 **[Get VideoDoc on Gumroad](https://inamach.gumroad.com/l/videodoc)**
 
 **Free (Lite):** works out of the box — videos up to 20 minutes.
-**Pro:** unlimited video length, no footer credit — [get a license key on Gumroad](https://inamach.gumroad.com/l/videodoc). One payment, 2 devices, lifetime.
+**Pro:** unlimited video length, no footer credit — one payment, 2 devices, lifetime.
+
+After purchase, download the VideoDoc zip from your Gumroad library, unzip it, open the VideoDoc folder and run `VideoDoc.exe`.
 
 ## What is VideoDoc?
 
@@ -25,13 +25,13 @@ VideoDoc turns a YouTube link or a local video into **one PDF your AI can actual
 
 ## What is this repo?
 
-This is the **public release distribution channel** for VideoDoc. Installed apps check this repo on launch to detect updates. The source code is private.
+This is the **public update feed** for VideoDoc. Installed apps check this repo on launch to detect updates. The app is sold on Gumroad and the source code is private — neither is hosted here.
 
 ## Automatic updates
 
 1. VideoDoc checks this repo silently when it starts.
-2. When a new version exists, the app shows a green **"Update available"** pill.
-3. Click it, land here, download the new zip, replace your VideoDoc folder — your Pro license stays activated.
+2. When a new version exists, the app shows a green **"Update available"** pill and opens this page.
+3. Download the new version from your Gumroad library and replace your VideoDoc folder — your Pro license stays activated.
 
 ## Support
 
