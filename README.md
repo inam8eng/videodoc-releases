@@ -12,12 +12,15 @@
 
 ## Get VideoDoc
 
-👉 **[Get VideoDoc on Gumroad](https://inamach.gumroad.com/l/videodoc)**
+👉 **[Get VideoDoc on Gumroad](https://designesh.gumroad.com/l/videodoc)**
 
 **Free (Lite):** works out of the box — videos up to 20 minutes.
 **Pro:** unlimited video length, no footer credit — one payment, 2 devices, lifetime.
 
-After purchase, download the VideoDoc zip from your Gumroad library, unzip it, open the VideoDoc folder and run `VideoDoc.exe`.
+After purchase, open VideoDoc in your Gumroad library and download the zip for your computer:
+
+- **Windows 10/11:** right-click the zip, choose **Extract All**, then run `VideoDoc-Setup`.
+- **Mac (Apple Silicon, macOS 14 or newer):** unzip it in your Downloads folder, then paste the one Terminal line from the Gumroad download page (it has a Copy button) or from `START_HERE_MAC.txt`.
 
 ## What is VideoDoc?
 
@@ -30,10 +33,10 @@ This is the **public update feed** for VideoDoc. Installed apps check this repo 
 ## Automatic updates
 
 1. VideoDoc checks this repo silently when it starts.
-2. When a new version exists, the app shows a green **"Update available"** pill and opens this page.
-3. Download the new version from your Gumroad library and replace your VideoDoc folder — your Pro license stays activated.
+2. When a new version exists, the app shows an **"Update vX.Y.Z available"** pill that opens that version's release page here.
+3. Download the new version from your Gumroad library. Windows: run the new `VideoDoc-Setup` over the old one. Mac: click **Shut down** in the old VideoDoc, move its old folder from Downloads to the Bin, then unzip the new one. Your Pro license stays activated.
 
 ## Support
 
-- Buy / FAQ: [inamach.gumroad.com/l/videodoc](https://inamach.gumroad.com/l/videodoc)
+- Buy / FAQ: [designesh.gumroad.com/l/videodoc](https://designesh.gumroad.com/l/videodoc)
 - Help: reply to your Gumroad receipt email
